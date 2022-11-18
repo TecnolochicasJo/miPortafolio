@@ -54,3 +54,26 @@ h1 {
 .texto-blanco {
     color: white;
 }
+
+/* seccion hero (principal) */
+.hero {
+    background-color: #f5f6f7;
+    min-height: 450px; /* para la altura minima del hero */
+    text-align: center;
+}
+
+.hero-principal {
+    padding: 3rem;
+}
+
+.hero-imagen-desarrollador {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: #584e4e;
+}
+
+.hero-principal h2 {
+    font-size: 1.5rem;
+    color: #615151;
+}
