@@ -8,3 +8,49 @@
     align-items: center;
     justify-content: space-between;
 }
+
+/* Estilos generales */
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-family: 'Rubik Dirt', cursive;
+}
+
+.seccion-oscura {
+    color: white;  /* Color de texto */
+    background-color: #1b1b32; /* color de fondo */
+}
+
+.seccion-clara {
+    color: black; /* Color de texto */
+    background-color: white; /* color de fondo */
+}
+
+.seccion-titulo {
+    font-size: 1.2rem;
+    color: #584e4e;
+}
+
+.seccion-texto {
+    font-size: 1.2rem;
+}
+
+/* estilos para los botones info */
+.btn-info {
+    font-size: 1.1rem;
+    margin: 20px;
+}   
+
+.texto-negro {
+    color: black;
+}
+
+.texto-blanco {
+    color: white;
+}
