@@ -33,6 +33,12 @@ h1 {
 }
 
 .seccion-titulo {
+    font-size: 2.2rem;
+    padding: 16px 0;
+    font-family: 'Rubik Dirt', cursive;
+}
+
+.seccion-descripcion {
     font-size: 1.2rem;
     color: #584e4e;
 }
@@ -70,10 +76,20 @@ h1 {
     width: 200px;
     height: 200px;
     margin: 20px;
-    background-color: #584e4e;
 }
 
 .hero-principal h2 {
     font-size: 1.5rem;
     color: #615151;
+}
+
+/* sobre mi */
+.sobre-mi {
+    height: 500px;
+    padding: 10px;
+}
+
+.sobre-mi .contenedor {
+    max-width: 600px;
+    text-align: center;
 }
