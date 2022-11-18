@@ -10,6 +10,12 @@
     justify-content: space-between;
 }
 
+/* mis estilos */
+.navbar .navbar-collapse .nav-link:hover {
+    color: #0a0a23;    
+}
+
+
 /* Estilos generales */
 
 section {
